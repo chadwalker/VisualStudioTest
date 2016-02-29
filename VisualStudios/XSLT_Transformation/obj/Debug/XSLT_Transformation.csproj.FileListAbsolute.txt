@@ -1,0 +1,5 @@
+c:\users\chad.walker\documents\visual studio 2013\Projects\XSLT_Transformation\XSLT_Transformation\bin\Debug\XSLT_Transformation.exe.config
+c:\users\chad.walker\documents\visual studio 2013\Projects\XSLT_Transformation\XSLT_Transformation\bin\Debug\XSLT_Transformation.exe
+c:\users\chad.walker\documents\visual studio 2013\Projects\XSLT_Transformation\XSLT_Transformation\bin\Debug\XSLT_Transformation.pdb
+c:\users\chad.walker\documents\visual studio 2013\Projects\XSLT_Transformation\XSLT_Transformation\obj\Debug\XSLT_Transformation.exe
+c:\users\chad.walker\documents\visual studio 2013\Projects\XSLT_Transformation\XSLT_Transformation\obj\Debug\XSLT_Transformation.pdb

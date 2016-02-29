@@ -1,0 +1,6 @@
+c:\users\chad.walker\documents\visual studio 2013\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+c:\users\chad.walker\documents\visual studio 2013\Projects\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache
+c:\users\chad.walker\documents\visual studio 2013\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+c:\users\chad.walker\documents\visual studio 2013\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+c:\users\chad.walker\documents\visual studio 2013\Projects\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+c:\users\chad.walker\documents\visual studio 2013\Projects\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
